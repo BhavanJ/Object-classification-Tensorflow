@@ -1,7 +1,7 @@
 # Object-classification-Tensorflow
 Visual Learning &amp; Recognition Assignment 1: Object Classification with TensorFlow
 
-Train multi-label image classification models using the [TensorFlow](www.tensorflow.org) (TF) framework. Classify images from the PASCAL 2007 dataset into the objects present in the image. 
+Aim: Train multi-label image classification models using the [TensorFlow](www.tensorflow.org) (TF) framework. Classify images from the PASCAL 2007 dataset into the objects present in the image. 
 
 
 ## Task 0: MNIST 10-digit classification in TensorFlow
@@ -24,9 +24,9 @@ Train multi-label image classification models using the [TensorFlow](www.tensorf
 #### Q 4.1: Load the pre-trained weights upto fc7 layer, and initialize fc8 weights and biases from scratch. Then train the network as before and report the training/validation curves and final performance on PASCAL test set.
 
 ## Task 5: Analysis
-### Conv-1 filters
-### Nearest neighbors
-### tSNE visualization of intermediate features
-### Are some classes harder?
+#### Conv-1 filters
+#### Nearest neighbors
+#### tSNE visualization of intermediate features
+#### Are some classes harder?
 
 ## Task 6: Improve the classification performance 
