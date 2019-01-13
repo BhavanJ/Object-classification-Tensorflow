@@ -33,10 +33,11 @@ Run code: python 03_pascal_vgg16.py VOCdevkit
 Run code: python 04_pascal_vgg16_finetune.py VOCdevkit
 
 ## Task 5: Analysis
-#### Conv-1 filters
-#### Nearest neighbors
-#### tSNE visualization of intermediate features
-#### Are some classes harder?
+Conv-1 filters
+Nearest neighbors
+tSNE visualization of intermediate features
+Are some classes harder?
+
 Run code: 
 python 05_Alex.py VOCdevkit 
 python 05_VGG.py VOCdevkit
