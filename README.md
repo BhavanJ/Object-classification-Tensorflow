@@ -5,6 +5,7 @@ Aim: Train multi-label image classification models using the [TensorFlow](www.te
 
 
 ## Task 0: MNIST 10-digit classification in TensorFlow
+To run code type: python 00_mnist.py
 
 ## Task 1: 2-layer network for PASCAL multi-label classification 
 #### Q 1.1: Write a data loader for PASCAL 2007.
