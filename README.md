@@ -3,6 +3,8 @@ Assignment 1 of Visual Learning &amp; Recognition Course, Spring 2018
 
 Aim: Train multi-label image classification models using the [TensorFlow](www.tensorflow.org) (TF) framework. Classify images from the PASCAL 2007 dataset into the objects present in the image. 
 
+Details of the assignment can be found [here](https://bitbucket.org/CMU16824Spring18/hw1).
+
 First download PASCAL dataset by running script in VOCdevkit folder. Then run below commands to get results for each of the 6 tasks. Report folder contains my complete HW report.
 
 
