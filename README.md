@@ -5,7 +5,7 @@ Aim: Train multi-label image classification models using the [TensorFlow](www.te
 
 Details of the assignment can be found [here](https://bitbucket.org/CMU16824Spring18/hw1).
 
-First download PASCAL dataset by running script in VOCdevkit folder. Then run below commands to get results for each of the 6 tasks. Report folder contains my complete HW report.
+First download PASCAL dataset by running script in VOCdevkit folder. Then run below commands to get results for each of the 6 tasks. Report folder contains my complete HW [report](https://github.com/BhavanJ/Object-classification-Tensorflow/blob/master/Report/bjasani.pdf).
 
 
 ## Task 0: MNIST 10-digit classification in TensorFlow
